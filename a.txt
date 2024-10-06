@@ -1,1 +1,2 @@
 trying to use git in another folder
+new folder in newRepo
