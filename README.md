@@ -8,3 +8,4 @@ Author - Aditya Srivastava
 <br>
 <br> add command to declare changes
 <br> commit command to commit changes
+<br> the push to main branch to finalize change on github
